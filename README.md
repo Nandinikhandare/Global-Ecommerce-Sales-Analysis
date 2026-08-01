@@ -1,4 +1,3 @@
-# Global-Ecommerce-Sales-Analysis
 # 📊 Global E-Commerce Sales Analysis
 
 ## Project Overview
